@@ -1,1 +1,1 @@
-This is a quiz taking software I wrote with multiple choice T/F and fill in the blank questions. There are still a few bugs to work out.
+This is a quiz taking software I wrote with multiple choice, T/F and fill in the blank questions. There are still a few bugs to work out.
